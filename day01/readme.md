@@ -4,15 +4,10 @@ Artificial Intelligence is the science of making machines think and act like hum
 
 Key Abilities of AI:
 
-Understanding language (e.g., ChatGPT understanding your question)
-
-Solving problems
-
-Recognizing images
-
-Learning from experience
-
-Making decisions
+- Understanding language (e.g., ChatGPT understanding your question)
+- Recognizing images
+- Learning from experience
+- Making decisions
 
 Example:
 
@@ -20,10 +15,7 @@ Example:
 
 - Virtual assistants like Siri or Google Assistant use AI to understand your voice and help you.
 
-
-2. Machine Learning (ML) – "A Subfield of AI"
-Definition:
-
+# Machine Learning (ML) – "A Subfield of AI"
 Machine Learning is a subset of AI. It is a method that allows machines to learn from data and improve from experience, without being explicitly programmed.
 
 How It Works:
@@ -32,18 +24,17 @@ Instead of writing rules, we feed the machine a lot of data, and it learns patte
 
 Types of ML:
 
-Supervised Learning: Learn from labeled data (like learning from answers)
+1. Supervised Learning: Learn from labeled data (like learning from answers)
 
-Unsupervised Learning: Learn patterns from data without labels
+2. Unsupervised Learning: Learn patterns from data without labels
 
-Reinforcement Learning: Learn by trial and error (like training a dog with rewards)
+3. Reinforcement Learning: Learn by trial and error (like training a dog with rewards)
 
 Example:
 
 If we give a model 1000 pictures of cats and dogs (with labels), the model will learn to tell the difference between a cat and a dog. This is supervised learning.
 
-3. Deep Learning (DL) – "A Subfield of ML"
-Definition:
+# Deep Learning (DL) – "A Subfield of ML"
 
 Deep Learning is a subset of Machine Learning. It uses a special type of model called a neural network with many layers (that’s why it's called "deep").
 
@@ -55,6 +46,6 @@ Deep learning can automatically find very complex patterns in data, which tradit
 
 Example:
 
-When Facebook automatically tags your friends in a photo using face recognition — that’s deep learning.
+- When Facebook automatically tags your friends in a photo using face recognition — that’s deep learning.
 
-ChatGPT (what you're using now) is based on deep learning models.
+- ChatGPT is based on deep learning models.
