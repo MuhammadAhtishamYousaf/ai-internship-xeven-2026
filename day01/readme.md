@@ -1,60 +1,27 @@
-# Artificial Intelligence (AI)
+This is the day 01 of 30 day internship at Xeven Solutions
 
-Artificial Intelligence is the science of making machines think and act like humans. It is a broad field that includes anything where a computer or machine performs tasks that normally require human intelligence.
+# Day 01 Tasks:
 
-Key Abilities of AI:
+1. What is Artificial Intelligence? Definition, history, and real-world impact
 
-Understanding language (e.g., ChatGPT understanding your question)
+2. AI Domains and applications: Healthcare (diagnosis), Finance (fraud detection), Education (personalized learning), Marketing (recommendations)
+   
+3. Introduction to NLP (text understanding), Speech Recognition (voice), Computer Vision (images)
+   
+4. Fields of AI: Machine Learning, Deep Learning, AI Engineering roles and responsibilities
 
-Solving problems
+```Mr. Satyananda Sahu ( Satya ) https://medium.com/@satyaa.sahu/artificial-intelligence-and-its-real-world-impact-77ebe2be7172```
 
-Recognizing images
+5. Types of AI: Narrow AI (current) vs. General AI (future conceptual understanding)
+   
+6. Role of an AI Engineer in 2026 : Building, deploying, and maintaining AI systems
+   
+7. Difference between Training (learning from data) vs. Inference (making predictions)
 
-Learning from experience
+8. Download, Install, Setup and run VSCode
 
-Making decisions
+9. Initialized UV (virtual environment)
 
-Example:
+10. After creating app.py display the output in the terminal
 
-- A robot that can talk, walk, and respond to your voice is an example of AI.
-
-- Virtual assistants like Siri or Google Assistant use AI to understand your voice and help you.
-
-
-2. Machine Learning (ML) – "A Subfield of AI"
-Definition:
-
-Machine Learning is a subset of AI. It is a method that allows machines to learn from data and improve from experience, without being explicitly programmed.
-
-How It Works:
-
-Instead of writing rules, we feed the machine a lot of data, and it learns patterns from that data.
-
-Types of ML:
-
-Supervised Learning: Learn from labeled data (like learning from answers)
-
-Unsupervised Learning: Learn patterns from data without labels
-
-Reinforcement Learning: Learn by trial and error (like training a dog with rewards)
-
-Example:
-
-If we give a model 1000 pictures of cats and dogs (with labels), the model will learn to tell the difference between a cat and a dog. This is supervised learning.
-
-3. Deep Learning (DL) – "A Subfield of ML"
-Definition:
-
-Deep Learning is a subset of Machine Learning. It uses a special type of model called a neural network with many layers (that’s why it's called "deep").
-
-It is inspired by how the human brain works. DL is especially powerful when working with large amounts of data, like images, audio, or natural language.
-
-Why Deep Learning?
-
-Deep learning can automatically find very complex patterns in data, which traditional ML may miss.
-
-Example:
-
-When Facebook automatically tags your friends in a photo using face recognition — that’s deep learning.
-
-ChatGPT (what you're using now) is based on deep learning models.
+11. Download, Install and Initialied git and commit all the tasks
