@@ -12,7 +12,6 @@ This is the day 01 of 30 day internship at Xeven Solutions
 
 ```Mr. Satyananda Sahu ( Satya ) https://medium.com/@satyaa.sahu/artificial-intelligence-and-its-real-world-impact-77ebe2be7172```
 
-<<<<<<< HEAD
 5. Types of AI: Narrow AI (current) vs. General AI (future conceptual understanding)
    
 6. Role of an AI Engineer in 2026 : Building, deploying, and maintaining AI systems
@@ -26,8 +25,3 @@ This is the day 01 of 30 day internship at Xeven Solutions
 10. After creating app.py display the output in the terminal
 
 11. Download, Install and Initialied git and commit all the tasks
-=======
-Types of AI: Narrow AI (current) vs. General AI (future conceptual understanding)
-Role of an AI Engineer in 2026 : Building, deploying, and maintaining AI systems
-Difference between Training (learning from data) vs. Inference (making predictions)
->>>>>>> 54b4700d04338c68df1fa4eb9c500de5e9307a03
