@@ -1,9 +1,14 @@
 This is the day 01 of 30 day internship at Xeven Solutions
-Day 01 Tasks:
-What is Artificial Intelligence? Definition, history, and real-world impact
-AI Domains and applications: Healthcare (diagnosis), Finance (fraud detection), Education (personalized learning), Marketing (recommendations)
-Introduction to NLP (text understanding), Speech Recognition (voice), Computer Vision (images)
-Fields of AI: Machine Learning, Deep Learning, AI Engineering roles and responsibilities
+
+# Day 01 Tasks:
+
+1. What is Artificial Intelligence? Definition, history, and real-world impact
+
+2. AI Domains and applications: Healthcare (diagnosis), Finance (fraud detection), Education (personalized learning), Marketing (recommendations)
+   
+3. Introduction to NLP (text understanding), Speech Recognition (voice), Computer Vision (images)
+   
+4. Fields of AI: Machine Learning, Deep Learning, AI Engineering roles and responsibilities
 
 ```Mr. Satyananda Sahu ( Satya ) https://medium.com/@satyaa.sahu/artificial-intelligence-and-its-real-world-impact-77ebe2be7172```
 
