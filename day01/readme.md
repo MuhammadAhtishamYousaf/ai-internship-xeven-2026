@@ -1,51 +1,12 @@
-# Artificial Intelligence (AI)
+This is the day 01 of 30 day internship at Xeven Solutions
+Day 01 Tasks:
+What is Artificial Intelligence? Definition, history, and real-world impact
+AI Domains and applications: Healthcare (diagnosis), Finance (fraud detection), Education (personalized learning), Marketing (recommendations)
+Introduction to NLP (text understanding), Speech Recognition (voice), Computer Vision (images)
+Fields of AI: Machine Learning, Deep Learning, AI Engineering roles and responsibilities
 
-Artificial Intelligence is the science of making machines think and act like humans. It is a broad field that includes anything where a computer or machine performs tasks that normally require human intelligence.
+```Mr. Satyananda Sahu ( Satya ) https://medium.com/@satyaa.sahu/artificial-intelligence-and-its-real-world-impact-77ebe2be7172```
 
-Key Abilities of AI:
-
-- Understanding language (e.g., ChatGPT understanding your question)
-- Recognizing images
-- Learning from experience
-- Making decisions
-
-Example:
-
-- A robot that can talk, walk, and respond to your voice is an example of AI.
-
-- Virtual assistants like Siri or Google Assistant use AI to understand your voice and help you.
-
-# Machine Learning (ML) – "A Subfield of AI"
-Machine Learning is a subset of AI. It is a method that allows machines to learn from data and improve from experience, without being explicitly programmed.
-
-How It Works:
-
-Instead of writing rules, we feed the machine a lot of data, and it learns patterns from that data.
-
-Types of ML:
-
-1. Supervised Learning: Learn from labeled data (like learning from answers)
-
-2. Unsupervised Learning: Learn patterns from data without labels
-
-3. Reinforcement Learning: Learn by trial and error (like training a dog with rewards)
-
-Example:
-
-If we give a model 1000 pictures of cats and dogs (with labels), the model will learn to tell the difference between a cat and a dog. This is supervised learning.
-
-# Deep Learning (DL) – "A Subfield of ML"
-
-Deep Learning is a subset of Machine Learning. It uses a special type of model called a neural network with many layers (that’s why it's called "deep").
-
-It is inspired by how the human brain works. DL is especially powerful when working with large amounts of data, like images, audio, or natural language.
-
-Why Deep Learning?
-
-Deep learning can automatically find very complex patterns in data, which traditional ML may miss.
-
-Example:
-
-- When Facebook automatically tags your friends in a photo using face recognition — that’s deep learning.
-
-- ChatGPT is based on deep learning models.
+Types of AI: Narrow AI (current) vs. General AI (future conceptual understanding)
+Role of an AI Engineer in 2026 : Building, deploying, and maintaining AI systems
+Difference between Training (learning from data) vs. Inference (making predictions)
